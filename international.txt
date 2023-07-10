@@ -1,0 +1,36 @@
+                THESE ARE INTERNATIONAL LOCATIONS
+
+1. PARIS
+     Per day,per head cost of -:
+        FOOD -: 2000/-
+        HOTEL -: 8000/-
+        TRAVELLING -: 10000/-
+
+2. MALDIVES
+     Per day,per head cost of -:
+        FOOD -: 3000/-
+        HOTEL -: 8000/-
+        TRAVELLING -: 8000/- 
+
+3. AMSTERDAM
+     Per day,per head cost of -:
+        FOOD -: 3000/-
+        HOTEL -: 9000/-
+        TRAVELLING -: 11000/-
+
+4. ROME
+     Per day,per head cost of -:
+        FOOD -: 3500/-
+        HOTEL -: 10000/-
+        TRAVELLING -: 12000/-
+
+5. THAILAND
+     Per day,per head cost of -:
+        FOOD -: 3500/-
+        HOTEL -: 12000/-
+        TRAVELLING -: 8500/-
+
+
+DISCOUNT OFFERED ON TRIP OF MORE THAN -:
+     30 DAYS -: 30%       
+

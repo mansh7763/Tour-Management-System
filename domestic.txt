@@ -1,0 +1,31 @@
+                 THIS IS DOMESTIC TOUR
+1. MYSSORRIE
+     Per day,per head cost of -:
+        FOOD -: 1000/-
+        HOTEL -: 1300/-
+        TRAVELLING -: 4000/-
+2. SHIMLA
+     Per day,per head cost of -:
+        FOOD -: 1100/-
+        HOTEL -: 1500/-
+        TRAVELLING -: 4300/-
+3. MANALI
+     Per day,per head cost of -:
+        FOOD -: 900/-
+        HOTEL -: 1700/-
+        TRAVELLING -: 5000/-
+4. DARJEELING
+     Per day,per head cost of -:
+        FOOD -: 800/-
+        HOTEL -: 1900/-
+        TRAVELLING -: 6000/-
+5. GOA
+     Per day,per head cost of -:
+        FOOD -: 1200/-
+        HOTEL -: 2200/-
+        TRAVELLING -: 4700/-
+
+DISCOUNT OFFERED ON TRIP OF MORE THAN -:
+    30 DAYS -: 25%
+    15 DAYS -: 20%    
+    8  DAYS -: 15%
